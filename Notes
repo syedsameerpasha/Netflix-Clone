@@ -1,0 +1,36 @@
+1.react js
+2.firebase authentication
+3.redux
+4.axios
+
+signup css:display grid means one by one 
+
+
+Redux:state mangement library 
+store,action,reducer
+
+1:in store our data will be there and if we want to use in any component i will use through actions
+
+if i want data i will tell show data
+if i want to modify data,i will payload it
+
+in app.js
+to select data we use useSelector(selectuser);
+what is selectuser which u gave in redux which gives us user
+
+wrapp the component in provider in index.js
+
+assume useref has a pointer which pointes from where u want to get data
+npm audit fix to check everything is upto date
+  box-sizing border box wont take padding
+
+
+  TMDB:Syed@123,SameerPasha
+
+  axios:to get data from database
+
+
+
+  to deploy in firebase 
+  1.firebase login
+  2 firebase init
